@@ -1,4 +1,0 @@
-[submodule "cat-angular"]
-	path = dist
-	url = git@github.com:Catalysts/cat-angular-bower.git
-	branch = master
